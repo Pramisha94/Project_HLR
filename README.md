@@ -1,2 +1,2 @@
 # Project_Glassdoor
-HLR ,Test scenario and Test Cases on Job seeking webite GLASSDOOR
+HLR ,Test scenario, Test Cases and Defect Report on Job seeking webite GLASSDOOR
